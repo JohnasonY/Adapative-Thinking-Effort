@@ -1,0 +1,7 @@
+prompt,reasoning,knowledge,steps,ambiguity,math
+What is Python?,1,2,1,1,1
+Compare TCP and UDP,3,3,3,1,1
+Prove a mathematical theorem,5,4,5,2,5
+Name the capital of France,1,1,1,1,1
+Explain how binary search works,3,3,3,1,2
+Design a fault tolerant distributed database,5,5,5,4,2

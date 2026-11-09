@@ -1,0 +1,4 @@
+prompt,reasoning,knowledge,steps,ambiguity,math
+What is a variable?,1,2,1,1,1
+Compare merge sort and quicksort,3,3,3,2,2
+Derive and prove the quadratic formula,4,4,5,1,5
